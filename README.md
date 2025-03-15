@@ -49,8 +49,11 @@ My approach is grounded in a strong theoretical foundation in financial engineer
     * *Time Series Analysis* by James D. Hamilton.
     * *An Introduction to Statistical Learning with application in R* by Gareth James et. al.
     * *Basic Econometrics* by Gujarati et. al.
+    * *Semi-parametric and non-parametric methods in econometrics* by Joel L. Horowitz.
     * *A first course in Probability* by Sheldon M. Ross.
     * *Statistical Inference* by George Casella and Roger L. Berger.
+    * *Causal Inference the mixtape* by Scott Cunningham
+    * *Observational Studies* by paul R. Rosenbaum.
     * <a href="https://statisticsbyjim.com/">*Statistics by Jim*</a> an online platform by Jim Frost.
     * <a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw">*Statquest*</a> with Josh Stammer.
     * <a href="https://www.youtube.com/c/3blue1brown">*3blue1brown*</a> an interactive animation based explanation by Grant Sanderson.
