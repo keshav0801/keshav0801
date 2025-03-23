@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Keshav Aggarwal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-linkedin-profile])
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[your-github-username])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav0801)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshav0801)
 
 Welcome to my GitHub profile! I'm passionate about leveraging quantitative techniques to solve complex problems in Finance and Risk Management, with a strong focus on asset and derivatives pricing, and developing and evaluating trading strategies.
 
@@ -23,6 +23,7 @@ Here's a glimpse of what you'll find in my repositories:
     * Statistical arbitrage strategies.
 * **Risk Management:**
     * Value at Risk (VaR), Conditional VAR (CVAR) and Expected shortfall (ES) calculations.
+    * Gaussian Copula
     * CDS pricing, swaps pricing
 * **Fixed Income Securities:**
     * Implementation of pricing models for various securities.
@@ -80,8 +81,8 @@ Here are a few highlights of my projects:
 
 I'm always eager to collaborate on interesting projects and discuss new ideas. Feel free to reach out!
 
-* [Your Email Address]
-* [Your LinkedIn Profile Link]
+* [aggarwalkeshav0801@gmail.com](mailto:aggarwalkeshav0801@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/keshav0801/)
 
 
 <!--
