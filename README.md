@@ -65,7 +65,7 @@ My approach is grounded in a strong theoretical foundation in financial engineer
     * *Financial Markets* at Yale University taught by Robert J. Shiller.
     * *Financial Engineering and Risk Management* at Columbia University taught by Martin Haugh et. al.
 
-
+<!--
 ## 🛠️ Projects
 
 Here are a few highlights of my projects:
@@ -76,7 +76,7 @@ Here are a few highlights of my projects:
     * <img src="[Link to a relevant image or GIF for Project 2]" width="150" alt="Project 2 Image">
 * **[Project Name 3]([Link to Repository 3])**: [Brief description of the project and its key features].
     * <img src="[Link to a relevant image or GIF for Project 3]" width="150" alt="Project 3 Image">
-
+-->
 ## 🤝 Let's Connect!
 
 I'm always eager to collaborate on interesting projects and discuss new ideas. Feel free to reach out!
