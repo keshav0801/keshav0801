@@ -17,12 +17,12 @@ Here's a glimpse of what you'll find in my repositories:
     * Pricing exotic options and structured products.
     * Volatility modeling and forecasting.
     * Interest rate derivatives analysis.
-* **Trading Strategies:**
+<!--* **Trading Strategies:**
     * Development and backtesting of algorithmic trading strategies.
     * Risk management and portfolio optimization.
-    * Statistical arbitrage strategies.
+    * Statistical arbitrage strategies.  -->
 * **Risk Management:**
-    * Value at Risk (VaR), Conditional VAR (CVAR) and Expected shortfall (ES) calculations.
+    * Value at Risk (VaR), Conditional VAR (CVAR)<!-- and Expected shortfall (ES) calculations -->.
     * Gaussian Copula
     * CDS pricing, swaps pricing
 * **Fixed Income Securities:**
